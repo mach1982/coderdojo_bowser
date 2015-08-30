@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Coder Dojo",
+  "description": "",
+  "version": "1.0",
+  "icons": {
+        "128": "coderdojo.png"
+        },
+
+  "browser_action": {
+    "default_icon": "coderdojo_small.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
