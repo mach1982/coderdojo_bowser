@@ -1,4 +1,4 @@
-# coderdojo_bowser
+# coderdojo_browser
 
 A Google Chrome browser extestion for Coder Dojo Movement
 
