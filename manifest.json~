@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "Coder Dojo",
-  "description": "Links to import Coder Dojo resources",
-  "version": "1.0",
+  "description": "",
+  "version": "0.1",
   "icons": {
         "128": "coderdojo.png"
         },

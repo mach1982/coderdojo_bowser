@@ -12,7 +12,7 @@ function find(e) {
 
 function tweets(e) {
    
- $('body').css('width:300px,height: 150px');  
+ $('body').css('height: 150px');  
         
 $("#frameDiv").html("<iframe src='http://portkey.dyndns.info/cdtweets.html'></iframe>");  
    
